@@ -3,7 +3,7 @@ import DitalTecnology from "../assets/picture/digital_technology.jpg";
 import Tecnology2024 from "../assets/picture/tecnology_2024.jpg";
 import Tecnologymendunia from "../assets/picture/tecnology_mendunia.png";
 import LogoPetra from "../assets/picture/logo_petra.png";
-import LogoMicrosoft from "../assets/picture/Logo_Microsoft.png";
+import LogoMicrosoft from "../assets/picture/logo_Microsoft.png";
 import LogoAti from "../assets/picture/ati.png";
 
 const Main = () => {
